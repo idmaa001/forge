@@ -1,0 +1,362 @@
+[
+  {
+    "run_id": "46ec15d5-544",
+    "item_id": "273783dc",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.2746,
+    "passed": false,
+    "latency_ms": 6203.59,
+    "token_count": 576,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0108,
+        "passed": false,
+        "explanation": "F1=0.01 (precision=0.01, recall=0.08)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.0769,
+        "passed": false,
+        "explanation": "heuristic overlap=0.08"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0108,
+        "passed": false,
+        "explanation": "fallback: F1=0.01 (precision=0.01, recall=0.08)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:45:57.214110"
+  },
+  {
+    "run_id": "1e53da65-e19",
+    "item_id": "cc01e0cc",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.3843,
+    "passed": false,
+    "latency_ms": 4568.88,
+    "token_count": 435,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0811,
+        "passed": false,
+        "explanation": "F1=0.08 (precision=0.05, recall=0.38)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.375,
+        "passed": false,
+        "explanation": "heuristic overlap=0.38"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0811,
+        "passed": false,
+        "explanation": "fallback: F1=0.08 (precision=0.05, recall=0.38)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:01.787326"
+  },
+  {
+    "run_id": "692829b3-5ef",
+    "item_id": "576cc8a5",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.5138,
+    "passed": false,
+    "latency_ms": 4843.82,
+    "token_count": 434,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.1184,
+        "passed": false,
+        "explanation": "F1=0.12 (precision=0.06, recall=0.82)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.8182,
+        "passed": true,
+        "explanation": "heuristic overlap=0.82"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.1184,
+        "passed": false,
+        "explanation": "fallback: F1=0.12 (precision=0.06, recall=0.82)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:06.638504"
+  },
+  {
+    "run_id": "e9ed4496-42e",
+    "item_id": "ada1acd6",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.4493,
+    "passed": false,
+    "latency_ms": 4999.26,
+    "token_count": 443,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0909,
+        "passed": false,
+        "explanation": "F1=0.09 (precision=0.05, recall=0.62)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.6154,
+        "passed": false,
+        "explanation": "heuristic overlap=0.62"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0909,
+        "passed": false,
+        "explanation": "fallback: F1=0.09 (precision=0.05, recall=0.62)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:11.645859"
+  },
+  {
+    "run_id": "a16bbf86-9ac",
+    "item_id": "2d880299",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.4077,
+    "passed": false,
+    "latency_ms": 4297.83,
+    "token_count": 394,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0966,
+        "passed": false,
+        "explanation": "F1=0.10 (precision=0.05, recall=0.44)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.4375,
+        "passed": false,
+        "explanation": "heuristic overlap=0.44"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0966,
+        "passed": false,
+        "explanation": "fallback: F1=0.10 (precision=0.05, recall=0.44)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:15.951228"
+  },
+  {
+    "run_id": "e3673feb-9b1",
+    "item_id": "39263016",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.442,
+    "passed": false,
+    "latency_ms": 4469.46,
+    "token_count": 402,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.1192,
+        "passed": false,
+        "explanation": "F1=0.12 (precision=0.07, recall=0.53)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.5294,
+        "passed": false,
+        "explanation": "heuristic overlap=0.53"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.1192,
+        "passed": false,
+        "explanation": "fallback: F1=0.12 (precision=0.07, recall=0.53)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:20.429072"
+  },
+  {
+    "run_id": "83cca10e-7d3",
+    "item_id": "97d838bf",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.4001,
+    "passed": false,
+    "latency_ms": 4368.78,
+    "token_count": 415,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.073,
+        "passed": false,
+        "explanation": "F1=0.07 (precision=0.04, recall=0.45)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.4545,
+        "passed": false,
+        "explanation": "heuristic overlap=0.45"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.073,
+        "passed": false,
+        "explanation": "fallback: F1=0.07 (precision=0.04, recall=0.45)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:24.805533"
+  },
+  {
+    "run_id": "3e15739f-fca",
+    "item_id": "8fd884f8",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.3448,
+    "passed": false,
+    "latency_ms": 6475.92,
+    "token_count": 489,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0395,
+        "passed": false,
+        "explanation": "F1=0.04 (precision=0.02, recall=0.30)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.3,
+        "passed": false,
+        "explanation": "heuristic overlap=0.30"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0395,
+        "passed": false,
+        "explanation": "fallback: F1=0.04 (precision=0.02, recall=0.30)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:31.291378"
+  },
+  {
+    "run_id": "5f34f361-c8f",
+    "item_id": "21482e01",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.425,
+    "passed": false,
+    "latency_ms": 6437.87,
+    "token_count": 536,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0833,
+        "passed": false,
+        "explanation": "F1=0.08 (precision=0.05, recall=0.53)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.5333,
+        "passed": false,
+        "explanation": "heuristic overlap=0.53"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0833,
+        "passed": false,
+        "explanation": "fallback: F1=0.08 (precision=0.05, recall=0.53)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:37.740307"
+  },
+  {
+    "run_id": "e129c5fe-0e6",
+    "item_id": "5da3a3f0",
+    "model": "claude-haiku-4-5-20251001",
+    "overall_score": 0.3256,
+    "passed": false,
+    "latency_ms": 4789.09,
+    "token_count": 484,
+    "scores": [
+      {
+        "dim": "accuracy",
+        "score": 0.0359,
+        "passed": false,
+        "explanation": "F1=0.04 (precision=0.02, recall=0.23)"
+      },
+      {
+        "dim": "hallucination",
+        "score": 0.2308,
+        "passed": false,
+        "explanation": "heuristic overlap=0.23"
+      },
+      {
+        "dim": "bias",
+        "score": 1.0,
+        "passed": true,
+        "explanation": "No bias patterns detected"
+      },
+      {
+        "dim": "reasoning",
+        "score": 0.0359,
+        "passed": false,
+        "explanation": "fallback: F1=0.04 (precision=0.02, recall=0.23)"
+      }
+    ],
+    "timestamp": "2026-05-14T08:46:42.538631"
+  }
+]
