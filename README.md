@@ -4,7 +4,7 @@
 Enterprise-grade AI governance platform for LLMs, GenAI applications, and AI agents.  
 Built for financial services. Applicable everywhere.
 
-[![Eval CI](https://github.com/yourusername/forge/actions/workflows/evals.yml/badge.svg)](https://github.com/yourusername/forge/actions)
+[![Eval CI](https://github.com/idmaa001/forge/actions/workflows/evals.yml/badge.svg)](https://github.com/yourusername/forge/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -56,7 +56,7 @@ FORGE is **not** a wrapper. It's a platform that sits alongside your AI stack an
 ## Quickstart
 
 ```bash
-git clone https://github.com/yourusername/forge.git
+git clone https://github.com/idmaa001/forge.git
 cd forge
 pip install -e ".[evals]"
 
