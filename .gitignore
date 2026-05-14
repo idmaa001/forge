@@ -1,0 +1,5 @@
+.venv/
+forge_ai.egg-info/
+__pycache__/
+*.pyc
+eval_results*.json
